@@ -18,4 +18,4 @@ Just see what I have done
 - The candidate has no BS degree, Higher Diploma instead.
 - The candidate has 3 years working with Javascript (Jquery, Polymer, React, Node)
 - The candidate has no good at algorithm because algorithm is too academic
-- The candidate is mostly good at pratical skills.
+- The candidate is mostly good at practical skills.
