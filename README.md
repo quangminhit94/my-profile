@@ -14,7 +14,7 @@
 
 Just see what I have done
 
-** HR please read this before send me a JD:
+**HR please read this before send me a JD:**
 - The candidate has no BS degree, Higher Diploma instead.
 - The candidate has 3 years working with Javascript (Jquery, Polymer, React, Node)
 - The candidate has no good at algorithm because algorithm is too academic
