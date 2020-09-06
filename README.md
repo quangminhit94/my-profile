@@ -1,7 +1,7 @@
 # My Profile
 
 ## Profile Web
-- URL: https://fullstack-social-media.vercel.app/home
+- URL: https://fullstack-social-media.vercel.app/landing
 - API: https://mickey-portfolio.herokuapp.com/
 
 - Technology: 
